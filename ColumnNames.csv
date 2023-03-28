@@ -1,0 +1,48 @@
+,index,0
+0,0,Dispatchable Generation
+1,1,Residual Demand
+2,2,RSA Contracted Demand
+3,3,International Exports
+4,4,International Imports
+5,5,Thermal Generation
+6,6,Nuclear Generation
+7,7,Eskom Gas Generation
+8,8,Eskom OCGT Generation
+9,9,Hydro Water Generation
+10,10,Pumped Water Generation
+11,11,ILS Usage
+12,12,Manual Load_Reduction(MLR)
+13,13,IOS Excl ILS and MLR
+14,14,Dispatchable IPP OCGT
+15,15,Eskom Gas SCO
+16,16,Eskom OCGT SCO
+17,17,Hydro Water SCO
+18,18,Pumped Water SCO Pumping
+19,19,Wind
+20,20,PV
+21,21,CSP
+22,22,Other RE
+23,23,Total RE
+24,24,Wind Installed Capacity
+25,25,PV Installed Capacity
+26,26,CSP Installed Capacity
+27,27,Other RE Installed Capacity
+28,28,Total RE Installed Capacity
+29,29,Installed Eskom Capacity
+30,30,Total PCLF
+31,31,Total UCLF
+32,32,Total OCLF
+33,33,Total UCLF+OCLF
+34,34,Non Comm Sentout
+35,35,Drakensberg Gen Unit Hours
+36,36,Palmiet Gen Unit Hours
+37,37,Ingula Gen Unit Hours
+38,38,Year
+39,39,Month
+40,40,day
+41,41,hour
+42,42,DayOfWeek
+43,43,WeekOfYear
+44,44,Week_Weekend
+45,45,BusinessHours
+46,46,Season
